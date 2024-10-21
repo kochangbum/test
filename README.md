@@ -8,9 +8,7 @@
 ![GitHub license](https://img.shields.io/github/license/kochangbum/pront-project)
 
 
-## Screenshots
 
-![Pront Dashboard](https://user-images.githubusercontent.com/yourname/dashboard.png)
 
 
 ## Installation
